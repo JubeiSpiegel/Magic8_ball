@@ -23,7 +23,7 @@ namespace Magic8Ball
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("********************************");
-            Console.WriteLine("Welcome to our MAGIC 8 BALL APP");
+            Console.WriteLine("Welcome to the MAGIC 8 BALL APP");
             Console.WriteLine("********************************");
             Console.WriteLine("");
             Console.Write("Do you want to play? [Y/N]: ");
